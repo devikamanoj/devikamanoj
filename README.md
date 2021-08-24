@@ -1,4 +1,4 @@
-### Hey, Devika Here 👋
+### Hey, I'm Devika 👋
 
 
 - 🔭 I’m currently an undergraduate student on Computer Science Engineering
