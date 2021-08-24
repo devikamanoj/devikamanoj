@@ -4,7 +4,8 @@
 - 📫 How to reach me **devikam629@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact **Easily spots the mistake 😄**
-- 
+
+
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
