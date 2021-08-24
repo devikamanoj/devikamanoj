@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devika</h1>
+<h1 align="center">Hey, I'm Devika 👋</h1>
 
 - 🔭 I’m currently an undergraduate student on **Computer Science Engineering with Artificial Intelligence**
 - 📫 How to reach me **devikam629@gmail.com**
