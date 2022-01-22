@@ -2,7 +2,7 @@
 <h3 align="center">Learning ✨</h3>
 
 - 🔭 I’m currently an undergraduate student on **Computer Science Engineering with Artificial Intelligence**
-- 🌱 I’m currently learning ** 👩‍Web Development 🌐💻**
+- 🌱 I’m currently learning ** Web Development 🌐💻**
 - 📫 How to reach me **devikam629@gmail.com**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Easily spots the mistake 😄**
